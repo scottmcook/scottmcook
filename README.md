@@ -9,6 +9,8 @@
 
 ### 📫 How to reach me
 [Mail](mailto:scott.madison.cook@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/scott-cook/)
+
 [RunninCode](https://runnincode.com/) - personal website
 
