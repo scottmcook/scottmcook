@@ -1,16 +1,14 @@
-### Hi there 👋
+## What's up 👋
 
-<!--
-**scottmcook/scottmcook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💪 I’m currently working on
+- Exercism.org coding exercises
+  - Contributing to their open source project where I can
+- A shopping cart project loading in products from a free API endpoint
+  - Working with React, Next.js, and Tailwind.css
+- Finding my next opportunity! 
 
-Here are some ideas to get you started:
+### 📫 How to reach me
+[Mail](mailto:scott.madison.cook@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/scott-cook/)
+[RunninCode](https://runnincode.com/) - personal website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
