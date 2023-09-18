@@ -1,10 +1,10 @@
 ## What's up 👋
 
 ### 💪 I’m currently working on
-- Exercism.org coding exercises
-  - Contributing to their open source project where I can
-- A shopping cart project loading in products from a free API endpoint
-  - Working with React, Next.js, and Tailwind.css
+- [Exercism.org](https://exercism.org/profiles/itsmescottiec) and [Hackerrank](https://www.hackerrank.com/ScottMCook) coding challenges
+  - Contributing to Exercism's open source project where I can
+- [FrontEndMentor.io](https://www.frontendmentor.io/profile/SMCRunner88) projects
+  - Usually working with React, Next.js, and Tailwind.css
 - Finding my next opportunity! 
 
 ### 📫 How to reach me
