@@ -9,8 +9,10 @@
 
 [Exercism.org](https://exercism.org/profiles/itsmescottiec) - I occasionally contribute to their open source project. Fixing typos and other copy edits 😁.
 
-### Tutorials 
+### Courses 
 [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/scottmcook) - I'm trying to get my first certification as a Platform Developer.
+
+[Frontend Masters](https://frontendmasters.com/learn/)
 
 ### 📫 How to reach me
 [RunninCode](https://runnincode.com/) - personal website
